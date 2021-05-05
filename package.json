@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/uschmann/zipkin-instrumentation-axios#readme",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "zipkin": "^0.13.0",
     "zipkin-context-cls": "^0.13.0",
-    "zipkin-transport-http": "^0.13.0"
+    "zipkin-transport-http": "^0.22.0"
   }
 }
